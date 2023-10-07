@@ -1,0 +1,350 @@
+*{
+box-sizing: border-box;
+font-family: "Libre Franklin"; /*Add to Texts & link*/
+}
+
+html{
+font-size: 62.5%;
+font-family: 'Libre Franklin', sans-serif;
+}
+
+header{
+background: black;
+height: 80px;
+}
+
+.logo{
+width: 26%;
+float: left;
+text-align: center;
+}
+
+.logo img {
+width: 50%;
+margin-left: 23px;
+margin-top: 13px;
+}
+.nav-bar-lists {   
+width: 70%;
+float: left;
+text-align: center;
+font-size: 2rem;
+margin-top: 16px;
+}
+
+.nav-bar-lists ul{
+margin-top: 13px
+}
+
+header li{
+padding-left: 58px;
+}
+
+header a{
+text-decoration: none;
+color: white;
+}
+
+h1{
+display: inline-block;
+}
+
+header li{
+display: inline-block;
+text-align: center;
+
+}
+
+.maincontent{
+width: 70%;
+float: left;
+margin-top: 226px;
+}
+
+.main-heading{
+font-size: 5rem;
+border-bottom: 3px solid red;
+}
+
+
+.sidecontent{
+width: 30%;
+float: right;
+height: 1037px;
+padding-left: 66px;
+}
+
+aside img{
+margin-top: 194px;
+width: 55%;
+margin-left: 109px;
+}
+
+
+.aside-heading {
+padding-right: 211px;
+font-size: 4.5rem;
+border-bottom: 2px solid red;
+}
+
+
+.aside-list{
+height: 920px;
+}
+
+.aside-list ol{
+font-size: 2.2rem;
+}
+
+.aside-list li{
+padding-bottom: 107px;
+font-size: 3rem;
+}
+
+.aside-list a{
+text-decoration: none;
+color: black;
+}
+
+.large{
+width: 70%;
+float: left;
+}
+
+.text{    
+width: 30%;
+float: right;
+font-size: 2rem;
+padding-left: 20px;
+padding-right: 20px;
+}
+    
+
+.fix{
+margin-top: 0;
+}
+
+.text h4{
+color: red;
+font-size: 3.2rem;
+margin-bottom: 0;
+}
+
+.text p{
+margin-top: 0;
+margin-bottom: 94px;
+}
+
+.tombrady{
+width: 100%;
+}
+
+.tombrady h2{
+font-size: 4rem;
+margin-bottom: 57px;
+}
+
+.trump, .chance{
+width: 50%;
+float: left;
+font-size: 2.5rem;
+}
+
+.large img{
+width: 98%;
+padding: 5px;
+}
+
+.secondpagecont{
+width: 60%;
+float: left;
+}
+
+.red{
+color: red;
+}
+
+.full{
+width: 100%;
+font-size: 2.3rem;
+float: left;
+}
+
+.full a{
+font-size: 1.7rem;
+color: grey;
+}
+
+.twenty{
+width: 23%;
+float: left;
+}
+
+.page2{
+    margin-left: 55px;
+}
+
+
+.truck-text{
+float: left;
+width: 77%;
+}
+
+.truck-text ul{
+font-size: 2rem;
+text-decoration: none;
+list-style: none;
+margin: 0;
+margin-left: 30px;
+}
+
+.truck-text li{
+padding-bottom: 24px;
+}
+
+.bottom-truck-text{
+width: 100%;
+float: left;
+font-size: 2.6rem;
+padding-right: 690px;
+}
+
+.bottom-truck-text h3{
+ margin-top: 7px;
+}
+
+
+footer{
+float: left;
+width: 100%;
+font-size: 2rem;
+margin-top: 100px;
+}
+
+i{
+font-size: 4rem;
+padding-right: 15px;
+}
+
+small{
+float: right;
+}
+
+
+footer >section{
+float: right;
+width: 30%;
+}
+
+.bottomtext{
+text-align: end;
+text-decoration: none;
+list-style-type: none;
+display: flex;
+float: right;
+
+
+}
+/* h2::first-letter {
+color:red;
+}
+
+
+.test::after {
+    color: red;
+    content: '|';
+    position: absolute;
+    transform: translate(-100%, 0);
+  }
+
+h2::last-letter {
+    color:teal;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+box-sizing: border-box;
+}
+
+header,section,aside{    
+border: 1px solid black;
+}
+
+#wrapper{
+    width: 80%;
+    min-width: 330px;    
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: lightblue;
+}
+
+
+
+.maincontent{
+width: 67%;
+float: left;
+box-sizing: border-box;
+}
+
+
+.mainimg1{
+height: 300px;
+}
+
+.mainimg1,.mainimg2,.mainimg3{
+box-sizing: border-box;
+}
+
+.imgshoe, .imgchance{
+float: left;
+}
+
+#mainimg2 p{
+float: right;
+}
+
+#mainimg2 h3{
+float: right;
+}
+    
+.text{
+float: right;
+
+
+}
+
+
+
+aside{
+    width:33%;
+    box-sizing: border-box;
+    float: left;
+    clear: left;
+}
+
+
+
+ */
